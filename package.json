@@ -1,13 +1,12 @@
 {
-  "name": "discord-bot",
+  "name": "bearman_bot",
   "version": "1.0.0",
   "description": "Discord bot for SitePoint",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Michiel Mulders",
-  "license": "ISC",
+  "author": "Bearman",
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
