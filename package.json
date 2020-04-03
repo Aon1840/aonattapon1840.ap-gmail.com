@@ -1,12 +1,11 @@
 {
   "name": "bearman_bot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Discord bot for SitePoint",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "Bearman",
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
