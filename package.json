@@ -2,9 +2,9 @@
   "name": "bearman_bot",
   "version": "1.0.0",
   "description": "Discord bot for SitePoint",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "author": "Bearman",
   "dependencies": {
